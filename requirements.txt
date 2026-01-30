@@ -1,0 +1,7 @@
+# IPv4 Address Inspector Dependencies
+
+# Required for future extensions and advanced network manipulation
+netaddr>=1.3.0
+
+# Note: ipaddress and json are part of the Python Standard Library (3.8+)
+# and do not need to be listed here.
